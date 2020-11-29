@@ -1,0 +1,74 @@
+2019-04-27 01:47:59 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select input C:\Users\user\Downloads\fuzz-2006-06-26-2594.pcap
+2019-04-27 01:48:09 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select output C:\Users\user\Desktop
+2019-04-27 01:48:11 DEBUG cic.cs.unb.ca.jnetpcap.worker.ReadPcapFileWorker    Working on... C:\Users\user\Downloads\fuzz-2006-06-26-2594.pcap
+2019-04-27 01:48:11 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 44 flow
+2019-04-27 01:48:11 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    Timeout current has 50 flow
+2019-04-27 01:48:11 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*00 30 54 00  34 56 00 e0  ed 01 6e bd  08 00 41 00    .0T.4V....n...A.
+0010: 00 48 6a b3  00 00 80 11  4c 9e f1 a8  01 02 c0 a8    .Hj.....L.......
+0020: 01 01 0a c8  00 35 00 34  70 08 b9 f4  01 00 00 01    .....5.4p.......
+0030: 00 00 00 00  00 00 04 5f  73 69 70 04  5f 75 64 70    ......._sip._udp
+0040: 03 73 69 70  09 63 79 62  65 72 63 69  74 79 02 64    .sip.cybercity.d
+0050: 6b 00 00 21  00 01*                                   k..!..          
+
+
+2019-04-27 01:48:11 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on C:\Users\user\Downloads\fuzz-2006-06-26-2594.pcap
+2019-04-27 01:51:16 INFO  cic.cs.unb.ca.ifm.Cmd    You select: C:\Users\user\Downloads
+2019-04-27 01:51:16 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: C:\Users\user\Downloads
+2019-04-27 01:51:16 DEBUG swing.common.SwingUtils    C:\Users\user\Downloads\1163269047 (Access is denied)
+2019-04-27 01:51:16 DEBUG swing.common.SwingUtils    C:\Users\user\Downloads\cicflowmeter-4 (Access is denied)
+2019-04-27 01:51:16 DEBUG swing.common.SwingUtils    C:\Users\user\Downloads\Compressed (Access is denied)
+2019-04-27 01:51:16 DEBUG swing.common.SwingUtils    C:\Users\user\Downloads\concept_formation-master (Access is denied)
+2019-04-27 01:51:16 DEBUG swing.common.SwingUtils    C:\Users\user\Downloads\DM Lab (Access is denied)
+2019-04-27 01:51:16 DEBUG swing.common.SwingUtils    C:\Users\user\Downloads\DM Lab (1) (Access is denied)
+2019-04-27 01:51:16 DEBUG swing.common.SwingUtils    C:\Users\user\Downloads\Documents (Access is denied)
+2019-04-27 01:51:16 DEBUG swing.common.SwingUtils    C:\Users\user\Downloads\DriverEasy.Professional.5.6.9.7361_Startcrack.com (Access is denied)
+2019-04-27 01:51:16 DEBUG swing.common.SwingUtils    C:\Users\user\Downloads\Internet.Download.Manager.6.32.Build.9.Retail_Startcrack.com (Access is denied)
+2019-04-27 01:51:16 DEBUG swing.common.SwingUtils    C:\Users\user\Downloads\Intrusion-Detection-System-using-Deep-Learning-master (Access is denied)
+2019-04-27 01:51:16 DEBUG swing.common.SwingUtils    C:\Users\user\Downloads\kddcup.data (Access is denied)
+2019-04-27 01:51:16 DEBUG swing.common.SwingUtils    C:\Users\user\Downloads\mistletoe-Python2_Final (Access is denied)
+2019-04-27 01:51:16 DEBUG swing.common.SwingUtils    C:\Users\user\Downloads\MossApp-master (Access is denied)
+2019-04-27 01:51:16 DEBUG swing.common.SwingUtils    C:\Users\user\Downloads\MS BILLS-20190422T073335Z-001 (Access is denied)
+2019-04-27 01:51:16 DEBUG swing.common.SwingUtils    C:\Users\user\Downloads\Music (Access is denied)
+2019-04-27 01:51:16 DEBUG swing.common.SwingUtils    C:\Users\user\Downloads\Network-Intrusion-detection-with-machine-learning-master (Access is denied)
+2019-04-27 01:51:16 DEBUG swing.common.SwingUtils    C:\Users\user\Downloads\Prj (Access is denied)
+2019-04-27 01:51:16 DEBUG swing.common.SwingUtils    C:\Users\user\Downloads\Programs (Access is denied)
+2019-04-27 01:51:16 DEBUG swing.common.SwingUtils    C:\Users\user\Downloads\SG1.tcpvpn.com (Access is denied)
+2019-04-27 01:51:16 DEBUG swing.common.SwingUtils    C:\Users\user\Downloads\Video (Access is denied)
+2019-04-27 01:51:16 ERROR cic.cs.unb.ca.jnetpcap.PacketReader    Error while opening file for capture: bad dump file format
+2019-04-27 01:51:56 INFO  cic.cs.unb.ca.ifm.Cmd    You select: C:\Users\user\Downloads
+2019-04-27 01:51:56 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: C:\Users\user\Downloads
+2019-04-27 01:51:56 DEBUG swing.common.SwingUtils    C:\Users\user\Downloads\1163269047 (Access is denied)
+2019-04-27 01:51:57 DEBUG swing.common.SwingUtils    C:\Users\user\Downloads\cicflowmeter-4 (Access is denied)
+2019-04-27 01:51:57 DEBUG swing.common.SwingUtils    C:\Users\user\Downloads\Compressed (Access is denied)
+2019-04-27 01:51:57 DEBUG swing.common.SwingUtils    C:\Users\user\Downloads\concept_formation-master (Access is denied)
+2019-04-27 01:51:57 DEBUG swing.common.SwingUtils    C:\Users\user\Downloads\DM Lab (Access is denied)
+2019-04-27 01:51:57 DEBUG swing.common.SwingUtils    C:\Users\user\Downloads\DM Lab (1) (Access is denied)
+2019-04-27 01:51:57 DEBUG swing.common.SwingUtils    C:\Users\user\Downloads\Documents (Access is denied)
+2019-04-27 01:51:57 DEBUG swing.common.SwingUtils    C:\Users\user\Downloads\DriverEasy.Professional.5.6.9.7361_Startcrack.com (Access is denied)
+2019-04-27 01:51:57 DEBUG swing.common.SwingUtils    C:\Users\user\Downloads\Internet.Download.Manager.6.32.Build.9.Retail_Startcrack.com (Access is denied)
+2019-04-27 01:51:57 DEBUG swing.common.SwingUtils    C:\Users\user\Downloads\Intrusion-Detection-System-using-Deep-Learning-master (Access is denied)
+2019-04-27 01:51:57 DEBUG swing.common.SwingUtils    C:\Users\user\Downloads\kddcup.data (Access is denied)
+2019-04-27 01:51:57 DEBUG swing.common.SwingUtils    C:\Users\user\Downloads\mistletoe-Python2_Final (Access is denied)
+2019-04-27 01:51:57 DEBUG swing.common.SwingUtils    C:\Users\user\Downloads\MossApp-master (Access is denied)
+2019-04-27 01:51:57 DEBUG swing.common.SwingUtils    C:\Users\user\Downloads\MS BILLS-20190422T073335Z-001 (Access is denied)
+2019-04-27 01:51:57 DEBUG swing.common.SwingUtils    C:\Users\user\Downloads\Music (Access is denied)
+2019-04-27 01:51:57 DEBUG swing.common.SwingUtils    C:\Users\user\Downloads\Network-Intrusion-detection-with-machine-learning-master (Access is denied)
+2019-04-27 01:51:57 DEBUG swing.common.SwingUtils    C:\Users\user\Downloads\Prj (Access is denied)
+2019-04-27 01:51:57 DEBUG swing.common.SwingUtils    C:\Users\user\Downloads\Programs (Access is denied)
+2019-04-27 01:51:57 DEBUG swing.common.SwingUtils    C:\Users\user\Downloads\SG1.tcpvpn.com (Access is denied)
+2019-04-27 01:51:57 DEBUG swing.common.SwingUtils    C:\Users\user\Downloads\Video (Access is denied)
+2019-04-27 01:51:57 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 44 flow
+2019-04-27 01:51:57 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    Timeout current has 50 flow
+2019-04-27 01:51:57 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*00 30 54 00  34 56 00 e0  ed 01 6e bd  08 00 41 00    .0T.4V....n...A.
+0010: 00 48 6a b3  00 00 80 11  4c 9e f1 a8  01 02 c0 a8    .Hj.....L.......
+0020: 01 01 0a c8  00 35 00 34  70 08 b9 f4  01 00 00 01    .....5.4p.......
+0030: 00 00 00 00  00 00 04 5f  73 69 70 04  5f 75 64 70    ......._sip._udp
+0040: 03 73 69 70  09 63 79 62  65 72 63 69  74 79 02 64    .sip.cybercity.d
+0050: 6b 00 00 21  00 01*                                   k..!..          
+
+
+2019-04-27 01:51:57 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on C:\Users\user\Downloads\fuzz-2006-06-26-2594.pcap
